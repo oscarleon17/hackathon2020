@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "909339754241",
+    "firebase_url": "https://nastyhackapp.firebaseio.com",
+    "project_id": "nastyhackapp",
+    "storage_bucket": "nastyhackapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909339754241:android:8fed8b4982c16014eb6500",
+        "android_client_info": {
+          "package_name": "nationwide.nastyhackapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909339754241-9sjiln93n4jmq35q384rhetdhovuq24o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Rk4BDAuXcb5z3r4ri1NXxAi9NTlfJ48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909339754241-9sjiln93n4jmq35q384rhetdhovuq24o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
